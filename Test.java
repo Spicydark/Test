@@ -10,7 +10,7 @@ public class Test {
 
 
     public void sayHello() {
-        System.out.println("Hello from the new method!");
+        System.out.println("Hello from the new method!!!");
     }
 
     
